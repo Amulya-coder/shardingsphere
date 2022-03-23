@@ -35,5 +35,6 @@
         <module>encrypt-spring-boot-mybatis-example</module>
         <module>encrypt-spring-namespace-mybatis-example</module>
         <module>encrypt-spring-namespace-jpa-example</module>
+        <module>encrypt-spring-boot-jpa-example</module>
     </modules>
 </project>
